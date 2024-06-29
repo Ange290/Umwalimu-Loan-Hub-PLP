@@ -1,1 +1,2 @@
 # Umwalimu-Loan-Hub-PLP
+## The Umwalimu Loan Hub project focuses on creating a centralized platform to facilitate access to financial services for teachers in Rwanda. It aims to streamline the loan application process, provide financial literacy resources, and foster a community where teachers can access loans tailored to their needs. The project also seeks to improve financial inclusion among educators, offering them better financial management tools and support.
